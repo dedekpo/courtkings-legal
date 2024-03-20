@@ -18,10 +18,7 @@ export default function Page() {
       <p>
         Court Kings 3D utilizes local storage and cookies to enhance your gaming
         experience. Local storage is used to save your game progress, settings,
-        and preferences, allowing you to pick up where you left off. Cookies
-        help us understand how you interact with the game, which parts of the
-        game are most popular, and how we can improve your experience. Cookies
-        may also be used to remember your preferences and settings.
+        and preferences, allowing you to pick up where you left off.
       </p>
 
       <h3>Multiplayer Mode</h3>
@@ -47,16 +44,6 @@ export default function Page() {
         your information. Although Court Kings 3D does not store personal data
         on our servers, we implement robust security measures to protect the
         data stored on your device through local storage and cookies.
-      </p>
-
-      <h2>Children's Privacy</h2>
-      <p>
-        {`Court Kings 3D complies with the Children's Online Privacy Protection
-        Act (COPPA) and does not knowingly collect personal information from
-        children under the age of 13 without appropriate parental consent. If we
-        learn that we have collected personal information from a child under 13
-        without verification of parental consent, we will take steps to remove
-        that information from our systems.`}
       </p>
 
       <h2>Your Rights and Choices</h2>
